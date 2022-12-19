@@ -18,3 +18,7 @@ User can edit it's comment and not to other's comment
 
 ## Delete comment
 User can delete it's comment
+
+![Responsive comment feature using React js](src/assets/image-4.png)
+
+![Responsive comment feature using React js](src/assets/image-5.png)
